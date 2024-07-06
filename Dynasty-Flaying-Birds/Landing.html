@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Landing Page</title>
+  <link rel="icon" type="image/png" href="images/favicon.ico"/>
+  <style>
+    /* Untuk membuat gambar mengisi seluruh halaman */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      position: relative; /* Menjadikan posisi relatif untuk button */
+    }
+    img.background {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+    /* Gaya untuk button play */
+    .button-container {
+      position: absolute;
+      bottom: 10%; /* Menempatkan button di bagian bawah */
+      left: 50%;
+      transform: translateX(-50%);
+      transition: bottom 0.3s ease; /* Animasi saat button bergerak */
+    }
+    .button-container a {
+      display: block; /* Membuat link menjadi blok agar bisa mengatur ukuran */
+    }
+    .button-container a img {
+      width: px; /* Sesuaikan dengan ukuran button */
+      height: 50px;
+      transition: transform 0.3s ease; /* Animasi saat hover */
+    }
+    .button-container a:hover img {
+      transform: scale(1.1); /* Perbesar button saat dihover */
+    }
+  </style>
+</head>
+
+<body> 
+    <audio id="audio" loop autoplay>
+        <source src="/Dynasty-Flaying-Birds/Backsound/landing.mp3" type="audio/mpeg">
+    </audio> 
+    <img class="background" src="/Dynasty-Flaying-Birds/images/landing.png" alt="halaman landing">
+
+    <!-- Container untuk button -->
+    <div class="button-container">
+        <!-- Button yang mengarah ke halaman lain dengan gambar -->
+        <a href="/Dynasty-Flaying-Birds/Maps.html">
+            <img src="/Dynasty-Flaying-Birds/images/play.png" alt="Button Image">
+        </a>
+    </div>
+</body>
+</html>

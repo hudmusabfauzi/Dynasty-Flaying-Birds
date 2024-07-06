@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Maps Dynasty</title>
+  <link rel="icon" type="image/png" href="images/favicon.ico"/>
+  <style>
+    /* Untuk membuat gambar mengisi seluruh halaman */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    /* Gaya untuk peta */
+.map {
+  position: relative;
+  width: 4002px; /* Atur sesuai lebar peta */
+  height: 2758px; /* Atur sesuai tinggi peta */
+  background-image: url('url_peta_indonesia.jpg'); /* Ganti dengan URL peta Indonesia */
+  background-size: cover;
+}
+
+/* Gaya untuk tombol */
+.button {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 12px;
+  border: 2px solid white; /* Outline putih */
+  transition: transform 0.3s ease; /* Efek transisi */
+}
+
+
+
+/* Gaya untuk tooltip */
+.tooltip {
+  display: none;
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 4px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border-radius: 4px;
+  font-size: 10px;
+}
+
+/* Efek hover */
+.button:hover {
+  transform: scale(1.2); /* Perbesar tombol saat dihover */
+}
+
+.button:hover .tooltip {
+  display: block; /* Munculkan tooltip saat dihover */
+}
+
+
+  </style>
+</head>
+
+<body> 
+    <audio id="audio" loop autoplay>
+        <source src="/Dynasty-Flaying-Birds/Backsound/science-documentary-169621 (1).mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      
+  <img src="/Dynasty-Flaying-Birds/images/Maps.png" alt="Gambar Penuh Halaman">
+  <div class="map">
+    <a href="/Dynasty-Flaying-Birds/halaman_sumatera.html" class="button sumatera" style="top: 350px; left: 310px;">
+      <span class="tooltip">Pulau Sumatera</span>
+    </a>
+    <a href="/Dynasty-Flaying-Birds/halaman_klaimantan.html" class="button kalimantan" style="top: 350px; left: 500px;">
+      <span class="tooltip">Pulau Kalimantan</span>
+    </a>
+    <a href="/Dynasty-Flaying-Birds/halaman_jawa.html" class="button jawa" style="top: 470px; left: 500px;">
+      <span class="tooltip">Pulau Jawa</span>
+    </a>
+    <a href="/Dynasty-Flaying-Birds/halaman_sulawesi.html" class="button sulawesi" style="top: 345px; left: 700px;">
+      <span class="tooltip">Pulau Sulawesi</span>
+    </a>
+    <a href="/Dynasty-Flaying-Birds/halaman_papua.html" class="button papua" style="top: 360px; left: 1100px;">
+      <span class="tooltip">Pulau Papua</span>
+    </a>
+    <a href="halaman_bali.html" class="button bali" style="top: 475px; left: 570px;">
+      <span class="tooltip">Pulau Bali</span>
+    </a>
+  </div>
+  
+</body>
+</html>
