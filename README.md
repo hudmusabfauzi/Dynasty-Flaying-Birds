@@ -33,53 +33,5 @@ Kami selalu senang menerima kontribusi dari komunitas. Jika Anda ingin membantu 
 
 ## Lisensi
 
-Dynasty-Flaying-Birds dilisensikan di bawah lisensi oleh hudmusabfauzi (TeknoMediaLabs).
-
-
-# [Your Name](https://your-website.com)
-
-Hi there! I'm [Your Name], a [Your Profession] with a passion for [Your Interests]. I'm excited to share my work and connect with others on GitHub.
-
-## About Me
-
-[Briefly describe yourself, your background, and your areas of expertise.]
-
-## Skills
-
-* [Skill 1]
-* [Skill 2]
-* [Skill 3]
-
-## Projects
-
-* [Project 1](https://project-link-1)
-* [Project 2](https://project-link-2)
-* [Project 3](https://project-link-3)
-
-## Social Media
-
-* [Website](https://your-website.com)
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-* [Twitter](https://twitter.com/your-twitter-handle)
-* [GitHub](https://github.com/your-github-username)
-* [Other social media links]
-
-## Support My Work
-
-If you appreciate my work and would like to support me, you can do so through the following ways:
-
-* **[Donation Platform](https://donation-link)**: Donate directly to support my ongoing projects and initiatives.
-* **[Buy Me a Coffee](https://buymeacoffee.com/your-username)**: Show your appreciation with a virtual coffee.
-* **[Sponsor Me on GitHub](https://github.com/sponsors/your-github-username)**: Become a sponsor and gain access to exclusive perks.
-
-Thank you for your support!
-
-## Contact
-
-Feel free to reach out if you have any questions, comments, or project proposals.
-
-* [Email](mailto:youremail@example.com)
-* [Other contact methods]
-
-
+Dynasty-Flaying-Birds dilisensikan oleh hudmusabfauzi (TeknoMediaLabs).
 
