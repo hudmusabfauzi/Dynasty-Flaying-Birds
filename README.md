@@ -1,4 +1,5 @@
 # Dynasty-Flaying-Birds: Jelajahi Keindahan Budaya Indonesia
+![Sampul Game](https://github.com/hudmusabfauzi/Dynasty-Flaying-Birds/assets/102576674/5c2a948c-3fd6-462f-89f1-50ac44b3f698)
 
 **Game rintangan seru yang mengajak Anda melintasi beragam bentang alam dan budaya Indonesia.**
 
@@ -34,7 +35,6 @@ Kami selalu senang menerima kontribusi dari komunitas. Jika Anda ingin membantu 
 
 Dynasty-Flaying-Birds dilisensikan di bawah lisensi oleh hudmusabfauzi (TeknoMediaLabs).
 
-[https://example.com/image.jpg](https://github.com/hudmusabfauzi/Dynasty-Flaying-Birds/assets/102576674/5e3f2701-2ec4-4955-b935-f2c89a1b98f3)
 
 pen_spark
 
