@@ -32,7 +32,7 @@ Kami selalu senang menerima kontribusi dari komunitas. Jika Anda ingin membantu 
 
 ## Lisensi
 
-Dynasty-Flaying-Birds dilisensikan di bawah lisensi [MIT](URL mit license).
+Dynasty-Flaying-Birds dilisensikan di bawah lisensi oleh hudmusabfauzi (TeknoMediaLabs).
 
 <img src="[https://example.com/image.jpg](https://github.com/hudmusabfauzi/Dynasty-Flaying-Birds/assets/102576674/5e3f2701-2ec4-4955-b935-f2c89a1b98f3)" width="200" height="150">
 
