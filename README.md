@@ -33,5 +33,5 @@ Kami selalu senang menerima kontribusi dari komunitas. Jika Anda ingin membantu 
 
 ## Lisensi
 
-Dynasty-Flaying-Birds dilisensikan oleh hudmusabfauzi (TeknoMediaLabs).
+Silahkan di Gunakan, Dimodifikasi dan Dikreasikan, Jangan 100% Menjiplak. Dynasty-Flaying-Birds dilisensikan oleh hudmusabfauzi (TeknoMediaLabs).
 
